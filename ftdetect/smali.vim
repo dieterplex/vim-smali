@@ -1,1 +1,1 @@
-au BufRead,BufNewfile *.smali set filetype=smali
+autocmd BufNewFile,BufRead *.smali set filetype=smali
